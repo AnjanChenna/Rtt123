@@ -8,6 +8,7 @@ PRODUCT_DETAILS2 = ["chairs12", "bags12", "mobiles12"]
 var1 = 123
 var2 = "python121"
 var3 = 11.231
+print("testing")
 
 # print(var1+var3)
 #list
